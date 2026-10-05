@@ -6,3 +6,9 @@ target/
 
 ### additions ###
 application-local.properties
+
+### IDE Eclipse ###
+.metadata/
+.settings/
+.classpath
+.project
